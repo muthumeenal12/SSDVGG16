@@ -103,4 +103,4 @@ The objective is to develop an object detection model leveraging a ResNet-based 
 
 ---
 
-Report link: https://docs.google.com/document/d/1z5fM_aGmRDLPQaHKJAk1BUT19ZBCQ2UpIxHSIrAWrow/edit?usp=sharing
+Report link: [doc](https://docs.google.com/document/d/1z5fM_aGmRDLPQaHKJAk1BUT19ZBCQ2UpIxHSIrAWrow/edit?usp=sharing)
